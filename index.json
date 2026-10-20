@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-debugtoolbar",
+  "versions": [
+    {
+      "commit": "bce845f48ae3f21c859663190f5be3ae69970ccc",
+      "tag": "0.3.1",
+      "parsed_at": "2026-10-20T21:49:23.865114+00:00"
+    }
+  ]
+}
